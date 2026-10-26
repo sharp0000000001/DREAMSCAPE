@@ -10,7 +10,7 @@
 // Copyright <2024> <JAMES C WILLIAMS>
 
 // Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
-// documentation files(the ìSoftwareî), to deal in the Software without restriction, including without 
+// documentation files(the ‚ÄúSoftware‚Äù), to deal in the Software without restriction, including without 
 // limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and /or sell copies of 
 // the Software, and to permit persons to whom the Software is furnished to do so, subject to the following 
 // conditions :
@@ -18,7 +18,7 @@
 // The above copyright notice and this permission notice shall be included in all copies or substantial portions 
 // of the Software.
 
-// THE SOFTWARE IS PROVIDED ìAS ISî, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+// THE SOFTWARE IS PROVIDED ‚ÄúAS IS‚Äù, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
 // TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.IN NO EVENT SHALL 
 // THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
 // CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
@@ -34,8 +34,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <stddef.h>
-#include <D:\Downloads\glew-2.1.0\include\GL\glew.h>
-#include <D:\Downloads\glfw-3.4.bin.WIN64\include\GLFW\glfw3.h>
+#include <D:\Downloads\glew-2.3.1-win32\glew-2.3.1\include\GL\glew.h>
+#include <D:\Downloads\glfw-3.5.1.bin.WIN64\include\GLFW\glfw3.h>
 #include <gl\GL.h>
 #include <C:\Users\plati\source\repos\GRAPHICS\GRAPHICS\GRAPHICS.h>
 
@@ -63,7 +63,14 @@ class front_panel
 
 class text_buffer
 {
+    class text_type
+    {
 
+    };
+    class text_size
+    {
+
+    };
 };
 
 class parse
@@ -83,7 +90,22 @@ class settings
 
 class sensors
 {
+    class mainfold_connect
+    {
 
+    };
+    class index_of_transference
+    {
+
+    };
+    class mind_connect
+    {
+
+    };
+    class Eh_OSC_connect
+    {
+
+    };
 };
 
 class intellect
@@ -93,47 +115,152 @@ class intellect
 
 class signals
 {
+    class analog
+    {
 
+    };
+    class digital
+    {
+
+    };
+    class data
+    {
+
+    };
+    class media
+    {
+
+    };
 };
 
 class route
 {
+    class direction
+    {
 
+    };
+    class frequency
+    {
+
+    };
+    class logic_gate
+    {
+
+    };
+    class reroute
+    {
+
+    };
 };
 
-class neuron
+class nerve
 {
+    class lobe
+    {
+        class chord
+        {
+            class neuron
+            {
+                class synapse
+                {
 
+                };
+            };
+        };
+    };
 };
 
 class think
 {
+    class verity
+    {
+        class idiom
+        {
+            class idea
+            {
+                class thought
+                {
 
+                };
+            };
+        };
+    };
 };
 
 class EH_OSC
 {
+    class wave_type
+    {
 
+    };
+    class analog_frequency
+    {
+
+    };
+    class digital_frequency
+    {
+
+    };
+    class external_EH
+    {
+
+    };
 };
 
 class mind_engine
 {
+    class thought_thing
+    {
 
+    };
+    class thought_dimension
+    {
+
+    };
+    class inter_relationships
+    {
+
+    };
+    class new_idea
+    {
+
+    };
 };
 
 class virtues
 {
+    class list
+    {
 
+    };
 };
 
 class spirit
 {
+    class color_spirit
+    {
 
+    };
+    class type_spirit
+    {
+
+    };
 };
 
 class person
 {
+    class body_person
+    {
 
+    };
+    class soul_person
+    {
+
+    };
+    class spirit_person
+    {
+
+    };
 };
 
 class heart
